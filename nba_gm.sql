@@ -19,3 +19,4 @@ CREATE TABLE nba_info (
     college TEXT
 );
 
+SELECT * FROM nba_info;
